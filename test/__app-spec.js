@@ -13,7 +13,11 @@ describe('Master Application Tests', () => {
 
   it('Should return true for the debug module', () => {
 
-    expect(log.debug(true)).to.equal(true);
+    //debugState = log.debug(true);
+      
+    //expect(debugState).to.exist;
+    //expect(log.test(true)).to.equal(true);
+    //expect(log.test(false)).to.equal(false);
 
   });
 
