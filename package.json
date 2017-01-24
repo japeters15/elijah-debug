@@ -1,0 +1,23 @@
+{
+  "name": "elijah-debug",
+  "version": "1.0.0",
+  "description": "elijah offutt assignment flass class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElijahOffutt/elijah-debug.git"
+  },
+  "author": "elijah offutt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElijahOffutt/elijah-debug/issues"
+  },
+  "homepage": "https://github.com/ElijahOffutt/elijah-debug#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
